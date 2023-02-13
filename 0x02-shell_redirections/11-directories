@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -type dir*.* print | wc -al
+find . -type d '.' -name | wc -al
